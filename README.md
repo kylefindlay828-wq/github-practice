@@ -8,3 +8,5 @@ Today I learned:
 - A repo is a project folder
 - A README explains the project
 - A commit is a saved checkpoint
+My second GitHub change: I edited an existing file.
+Update README with second change
